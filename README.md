@@ -12,7 +12,7 @@
   <h3 align="center">Tutor Student Portal</h3>
 
   <p align="center">
-    A Tutor Student Portal is tutoring system that allow a tutor to link up with a student or students for the purpose tutoring them virtually or in-person on a certain subject (e.g. Mathematics, Physical Science, History, etc).
+    A Tutor Student Portal is tutoring system that connects a tutor and a student or students.
     <br />
     <a href="https://developer.algorand.org/#"><strong>Explore the docs »</strong></a>
     <br />
@@ -30,7 +30,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Tutor Student Portal is tutoring system that allow a tutor or tutors to link up with a student or students for the purpose tutoring them on a certain subject.
+Tutor Student Portal is tutoring system that allow a tutor to link up with a student or students for the purpose tutoring them virtually or in-person on a certain subject (e.g. Mathematics, Physical Science, History, etc).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
