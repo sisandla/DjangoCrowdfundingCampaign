@@ -1,1 +1,1 @@
-# pyCrowdfundingCampaign
+# DjangoCrowdfundingCampaign
