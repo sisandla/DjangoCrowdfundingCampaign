@@ -36,9 +36,9 @@ Tutor Student Portal is tutoring system that allow a tutor or tutors to link up 
 
 
 
-### Built With
+<!--### Built With
 
-<!-- This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+ This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [Django](https://www.djangoproject.com/)
 * [HMLT5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
